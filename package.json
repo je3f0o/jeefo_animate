@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "node build"
+  },
+  "dependencies": {
+    "jeefo_preprocessor": "^0.0.2"
+  }
+}

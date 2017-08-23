@@ -1,0 +1,33 @@
+{
+  "name": "jeefo_animate",
+  "version": "0.0.1",
+  "description": "Part of jeefo framework",
+  "author": {
+    "name": "je3f0o",
+    "email": "je3f0o@gmail.com"
+  },
+  "homepage": "https://github.com/je3f0o/jeefo_animate",
+  "license": "MIT",
+  "copyright": "2017",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/je3f0o/jeefo_animate.git"
+  },
+  "keywords": [
+    "q",
+    "jeefo",
+    "utils",
+    "promise",
+    "animate",
+    "polifyll",
+    "framework"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "jeefo_polifyll": "^0.0.2",
+    "jeefo_q": "^0.0.1",
+    "jeefo_utils": "^0.0.1"
+  }
+}
