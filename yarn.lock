@@ -6,18 +6,18 @@ jeefo_javascript_beautifier@^0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/jeefo_javascript_beautifier/-/jeefo_javascript_beautifier-0.0.5.tgz#60c8a759fd8afdb1132898e36974699b87ed8855"
 
-jeefo_javascript_parser@^0.0.16:
-  version "0.0.16"
-  resolved "https://registry.yarnpkg.com/jeefo_javascript_parser/-/jeefo_javascript_parser-0.0.16.tgz#3f5cf2986325f375c360eebbf98c1b3fde413505"
+jeefo_javascript_parser@^0.0.17:
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/jeefo_javascript_parser/-/jeefo_javascript_parser-0.0.17.tgz#1990de9a2a0b28efa1bd9e9f090daadb527af7e8"
   dependencies:
     jeefo_tokenizer "^0.0.29"
 
-jeefo_preprocessor@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/jeefo_preprocessor/-/jeefo_preprocessor-0.0.2.tgz#3c3baa96d15ad1c32fb14171bb78bbea70765a4e"
+jeefo_preprocessor@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/jeefo_preprocessor/-/jeefo_preprocessor-0.0.5.tgz#482c9b78c76ce55e9c34f39bc07106fb5078c795"
   dependencies:
     jeefo_javascript_beautifier "^0.0.5"
-    jeefo_javascript_parser "^0.0.16"
+    jeefo_javascript_parser "^0.0.17"
 
 jeefo_tokenizer@^0.0.29:
   version "0.0.29"

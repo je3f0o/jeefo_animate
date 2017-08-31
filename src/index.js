@@ -1,7 +1,7 @@
 /* -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 * File Name   : index.js
 * Created at  : 2017-07-31
-* Updated at  : 2017-08-24
+* Updated at  : 2017-08-31
 * Author      : jeefo
 * Purpose     :
 * Description :
@@ -20,7 +20,7 @@ var MILLISECONDS_IN_A_SECOND        = PP.define("MILLISECONDS_IN_A_SECOND", 1000
 // ignore:end
 
 var $q           = require("jeefo_q"),
-	polifyll     = require("jeefo_polifyll"),
+	polifyll     = require("jeefo_polyfill"),
 	array_remove = require("jeefo_utils/array/remove");
 
 var set_timeout = setTimeout;

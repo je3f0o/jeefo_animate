@@ -1,14 +1,14 @@
 /* -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 * File Name   : index.js
 * Created at  : 2017-07-31
-* Updated at  : 2017-08-24
+* Updated at  : 2017-08-31
 * Author      : jeefo
 * Purpose     :
 * Description :
 _._._._._._._._._._._._._._._._._._._._._.*/
 
 var $q           = require("jeefo_q"),
-	polifyll     = require("jeefo_polifyll"),
+	polifyll     = require("jeefo_polyfill"),
 	array_remove = require("jeefo_utils/array/remove");
 
 var set_timeout = setTimeout;
